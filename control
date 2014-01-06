@@ -1,0 +1,9 @@
+Package: com.ac3xx.forcedark
+Name: ForceDark
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Force keyboard into dark UI.
+Maintainer: James Long
+Author: James Long
+Section: Tweaks
